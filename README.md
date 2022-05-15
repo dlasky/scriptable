@@ -6,8 +6,8 @@ To get started copy the files (including the lib folder) into your iCloud/Script
 
 ### Pollen Widget
 
-- Configuration Paramater: [integer] zip code
+- Configuration Param: [integer] zip code
 
 ### Covid Stats Widget
 
-- Configuration Paramater: [string] state name eg "california"
+- Configuration Param: [string] state name eg "california"
